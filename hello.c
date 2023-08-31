@@ -3,5 +3,6 @@ int main()
 {
 
   printf("HELLO WORLD");
+  printf("rise collage");
   return 0;
 }
